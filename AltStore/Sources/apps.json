@@ -1,7 +1,7 @@
 {
   "name": "AltStore",
   "identifier": "com.rileytestut.AltStore",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "sourceURL": "https://skiroapp.github.io/Apps/file/altstore/apps.json",
   "apps": [
     {
       "name": "AltStore",
